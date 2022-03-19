@@ -1,0 +1,2 @@
+spring autoconfiguration can be found in spring-autoconfiguration.factories all_factories
+spring security is implemented through FilterChainProxyFactory.class for all_factories website based security
